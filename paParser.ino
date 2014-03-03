@@ -1,3 +1,8 @@
+/**
+Created by: Romarie E. Yuag
+BS Computer Engineering
+MSU-Iligan Institute of Technology
+*/
 #include<SoftwareSerial.h>
 #define DATABUFFERSIZE 53
 char dataBuffer[DATABUFFERSIZE + 1];
